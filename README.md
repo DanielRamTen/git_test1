@@ -2,6 +2,6 @@
 
 ##Subtitulo
 
-Esto es un mensaje en mi archivo Readme. 
+Esto es un mensaje en mi archivo en una rama
 
 
