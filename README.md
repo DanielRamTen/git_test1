@@ -2,6 +2,7 @@
 
 ##Subtitulo
 
-Esto es un mensaje en mi archivo en una rama
+Este es un archivo contenido en una rama realizado como nuevo ejercicio. 
+Cambios realizados= 0 
 
 
