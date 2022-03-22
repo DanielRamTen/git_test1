@@ -3,5 +3,5 @@
 ##Subtitulo
 
 
-Esto es un mensaje modificado en la rama principal. 
+Esta es la rama principal, modificaciones realizadas en este nuevo ejercicio = 0 
 
